@@ -42,3 +42,25 @@
     padding: 100px 0px 120px 0px;
     
 }
+.footerpart{
+    padding: 80px 0px 80px 0px;
+    background: #1a1a1a;
+    color: whitesmoke;
+
+}
+.subFoot{
+    padding: 18px 0px 18px 0px;
+    background: #0d0d0d;
+    color: white;
+}
+.footerpart p{
+    color: #bdbab5;
+}
+.footerpart h5{
+    padding-bottom: 10px;
+}
+.imagelogo{
+    height: 80px;
+    width: 80%;
+    padding-bottom: 10px;
+}
